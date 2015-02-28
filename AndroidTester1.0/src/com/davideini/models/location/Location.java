@@ -4,6 +4,7 @@ public class Location {
 	private double x;
 	private double y;
 	
+	
 	public Location() {
 		// TODO Auto-generated constructor stub
 	}
