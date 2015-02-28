@@ -34,11 +34,6 @@
             android:name=".MapSettingsActivity"
             android:label="@string/title_activity_map_settings" >
         </activity>
-        <activity
-            android:name=".LoginActivity"
-            android:label="@string/title_activity_login"
-            android:windowSoftInputMode="adjustResize|stateHidden" >
-        </activity>
 
         <meta-data
             android:name="com.google.android.gms.version"
