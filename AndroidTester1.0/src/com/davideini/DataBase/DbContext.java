@@ -1,9 +1,7 @@
 package com.davideini.DataBase;
 
-import java.util.ArrayList;
+
 import java.util.Collection;
-import java.util.LinkedList;
-import java.util.List;
 
 import com.davideini.models.location.Location;
 
